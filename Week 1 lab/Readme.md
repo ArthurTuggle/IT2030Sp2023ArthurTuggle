@@ -1,1 +1,4 @@
-
+The name of my store will my Arthur's Music Lounge
+The name of my application will be Music Genres
+The app will read all the music you have in your library and sort each one out by each genre such as Rock,Pop,Rap,House,R&B,Electro etc. 
+This app will then sort each song of each genre alpabetically
